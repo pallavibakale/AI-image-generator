@@ -5,7 +5,7 @@ import os
 from PIL import Image
 from io import BytesIO
 
-#API key delte krtoy ithun, tu use krshil 
+#API key
 openai.api_key = "openai_api_key_placeholder"
 
 if not openai.api_key:
