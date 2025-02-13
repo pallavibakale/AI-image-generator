@@ -35,3 +35,5 @@ https://github.com/pallavibakale/
 
 ## Some screenshots of the generated images
 ![roaring lion](https://github.com/user-attachments/assets/7106044a-e129-4072-a069-94065ab2f4e9)
+![calm sunset](https://github.com/user-attachments/assets/10bcb711-b334-4245-9437-6a856f72e9b5)
+
