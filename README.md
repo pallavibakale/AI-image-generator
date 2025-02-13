@@ -32,3 +32,6 @@ This is a simple app that turns your text descriptions into images using OpenAI'
 ## Who Made This?
 Pallavi Bakale
 https://github.com/pallavibakale/
+
+## Some screenshots of the generated images
+![roaring lion](https://github.com/user-attachments/assets/7106044a-e129-4072-a069-94065ab2f4e9)
